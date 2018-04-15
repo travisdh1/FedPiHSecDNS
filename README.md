@@ -1,5 +1,8 @@
 # FedPiHSecDNS
-Fedora PiHole DNS-over-HTTPS to Cloudflare script
+Script to setup a Fedora PiHole install with DNS-over-HTTPS to Cloudflare.
 
 Download the script or copy into a local file.
-Run by 'sudo bash ./
+chmod +x secureDNS.sh
+./secureDNS.sh
+
+That's it.
